@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.25
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleServerModule", "SimpleServerModule\SimpleServerModule.csproj", "{CC682740-657E-4057-87D9-14A70D76F675}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC682740-657E-4057-87D9-14A70D76F675}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{CC682740-657E-4057-87D9-14A70D76F675}.Debug|anycpu.Build.0 = Debug|anycpu
+		{CC682740-657E-4057-87D9-14A70D76F675}.Release|anycpu.ActiveCfg = Release|anycpu
+		{CC682740-657E-4057-87D9-14A70D76F675}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3857DA77-3DAA-4F15-A6F5-D2D45F037513}
+	EndGlobalSection
+EndGlobal
