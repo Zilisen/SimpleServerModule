@@ -54,6 +54,12 @@
     <Compile Include="script\proto\NotepadMsg.cs" />
     <Compile Include="script\logic\LoginMsgHandle.cs" />
     <Compile Include="script\logic\NotepadMsgHandle.cs" />
+    <Compile Include="script\logic\Room.cs" />
+    <Compile Include="script\logic\RoomManager.cs" />
+    <Compile Include="script\proto\RoomMsg.cs" />
+    <Compile Include="script\logic\RoomMsgHandler.cs" />
+    <Compile Include="script\proto\SyncMsg.cs" />
+    <Compile Include="script\logic\SyncMsgHandler.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="script\" />
